@@ -1,0 +1,2 @@
+Fuel: 59.0 Health: 10 Road Location: 3 Distance Travelled: 27
+Congratulations you have escaped!
